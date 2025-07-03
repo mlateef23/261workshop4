@@ -1,6 +1,6 @@
 #include <Servo.h>
 
-Servo angleServo;      // Positional servo connected to pin 11
+Servo angleServo;     
 Servo spinServo;       
 int userValue = 0;
 
