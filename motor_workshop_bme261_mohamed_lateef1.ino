@@ -1,7 +1,7 @@
 #include <Servo.h>
 
 Servo angleServo;      // Positional servo connected to pin 11
-Servo spinServo;       // Continuous rotation servo connected to pin 9
+Servo spinServo;       
 int userValue = 0;
 
 void setup() {
